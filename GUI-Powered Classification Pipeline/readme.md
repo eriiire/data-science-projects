@@ -50,7 +50,7 @@ The `Main` class is the primary window of the application. It initializes the GU
 - **Instructions**: Displays a message box with instructions on how to use the application.
 
 ### Instructions
-![Instructions](Image Directory/instructions.png)
+![Instructions](https://github.com/eriiire/data-science-projects/blob/main/GUI-Powered%20Classification%20Pipeline/Image%20Directory/Instructions.png)
 
 ### File Upload
 ![Data Upload Module](Image Directory/Data Upload Module.png)

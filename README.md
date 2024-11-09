@@ -52,4 +52,4 @@ This repository contains data science projects that span various domains, showca
 - **Software Development**: Developed a user-friendly GUI application to streamline classification modeling, enhancing accessibility and usability.
 
 ## Conclusion
-This repository reflects a wide array of data science competencies, from technical coding practices and data handling to advanced modeling and strategic recommendations. Each project highlights different aspects of Eri's data science expertise, making this collection a well-rounded professional showcase.
+This repository reflects a wide array of data science competencies, from technical coding practices and data handling to advanced modeling and strategic recommendations. Each project highlights different aspects of data science proficiency.

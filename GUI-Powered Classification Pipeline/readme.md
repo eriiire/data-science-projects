@@ -20,8 +20,6 @@ This PyQt5 GUI application provides a pipeline for classification model developm
   - [Evaluation Plots](#evaluation-plots)
 - [7. Results Display](#7-results-display)
 - [8. Error Logging](#8-error-logging)
-- [9. Execution](#9-execution)
-- [Summary of Usage](#summary-of-usage)
 
 ---
 

@@ -75,18 +75,3 @@ The cleaned and transformed datasets (`x_train`, `y_train`, `x_test`, `y_test`) 
 **Note**: The dataset files are large; external links are provided for downloading them.
 
 --- 
-
-## Repository Structure
-
-The repository includes:
-- `Data Analysis`: The current notebook with EDA and statistical analysis.
-- `Predictive Modeling`: A separate notebook for building and evaluating accident prediction models (provided separately).
-
----
-
-## Running the Analysis
-1. **Data Analysis**: Start by running this EDA notebook to perform initial data preparation and statistical analysis.
-2. **Predictive Modeling**: Use the exported datasets from this notebook as input to build predictive models.
-
-This analysis enables an actionable understanding of accident-prone zones in Liverpool, assisting city authorities in deploying targeted safety interventions.
-

@@ -1,6 +1,6 @@
-# Technical Skills Demonstrated in the Business Analytics Model Builder Project
+# Technical Skills Demonstrated in GUI-Powered Classification Pipeline Project
 
-This document outlines the technical skills and concepts demonstrated by the Python script in the Business Analytics Model Builder project.
+This document outlines the technical skills and concepts demonstrated by the Python script in the GUI-Powered Classification Pipeline project.
 
 ---
 

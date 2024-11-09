@@ -1,4 +1,4 @@
-# MSC Business Analytics Project - GUI Application Documentation
+# Gui-Powered Classification Pipeline Project - GUI Application Documentation
 
 ## Overview
 
@@ -49,6 +49,12 @@ The `Main` class is the primary window of the application. It initializes the GU
 - **File Handling**: Allows users to upload a CSV file and preview its content.
 - **Instructions**: Displays a message box with instructions on how to use the application.
 
+### Instructions
+![Instructions](Image Directory/instructions.png)
+
+### File Upload
+![Data Upload Module](Image Directory/Data Upload Module.png)
+
 ---
 
 ## 3. File Handling and Data Preview
@@ -59,6 +65,8 @@ The `Main` class is the primary window of the application. It initializes the GU
 ---
 
 ## 4. Data Preprocessing
+
+![Data Preprocessing](Image Directory/Data Pre-Processing Module.png)
 
 ### `scaleData()`
 Scales numeric columns in the dataset using `RobustScaler`. If `Amount` and `Time` columns are present, they are also scaled and dropped from the main DataFrame.
@@ -81,6 +89,8 @@ Balances class distributions in the training data. Users can choose between:
 ---
 
 ## 6. Model Training and Evaluation
+
+![Model Selection](Image Directory/Model Selection and Training Module.png)
 
 The application supports multiple models, each with a dedicated function. The models included are:
 
@@ -126,10 +136,4 @@ Displays model results in a table format (`resultsTable`) and highlights the bes
 Errors encountered during execution are logged to a file (`msc_project_error_Main_class.log`), enabling easier debugging.
 
 ---
-
-## 9. Execution
-
-```python
-if __name__ == "__main__":
-    # Launches the application
 

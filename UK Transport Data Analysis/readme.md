@@ -17,6 +17,12 @@ This project is organized into two Jupyter Notebooks that need to be run sequent
 ## Data Files
 Due to the large size of the dataset, it is stored externally. Please download the dataset from the provided links and ensure it is accessible before running the notebooks.
 
+### Download Links:
+- [x_train.csv](#) - Placeholder for `x_train.csv`
+- [x_test.csv](#) - Placeholder for `x_test.csv`
+- [y_train.csv](#) - Placeholder for `y_train.csv`
+- [y_test.csv](#) - Placeholder for `y_test.csv`
+
 ---
 
 By following these steps, you will conduct a full data analysis and model-building workflow to gain insights and predictive capabilities for UK transportation data.

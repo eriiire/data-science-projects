@@ -53,7 +53,7 @@ The `Main` class is the primary window of the application. It initializes the GU
 ![Instructions](https://github.com/eriiire/data-science-projects/blob/main/GUI-Powered%20Classification%20Pipeline/Image%20Directory/Instructions.png)
 
 ### File Upload
-![Data Upload Module](Image Directory/Data Upload Module.png)
+![Data Upload Module](https://github.com/eriiire/data-science-projects/blob/main/GUI-Powered%20Classification%20Pipeline/Image%20Directory/Data%20Upload%20Module.png)
 
 ---
 
@@ -66,7 +66,7 @@ The `Main` class is the primary window of the application. It initializes the GU
 
 ## 4. Data Preprocessing
 
-![Data Preprocessing](Image Directory/Data Pre-Processing Module.png)
+![Data Preprocessing](https://github.com/eriiire/data-science-projects/blob/main/GUI-Powered%20Classification%20Pipeline/Image%20Directory/Data%20Pre-Processing%20Module.png)
 
 ### `scaleData()`
 Scales numeric columns in the dataset using `RobustScaler`. If `Amount` and `Time` columns are present, they are also scaled and dropped from the main DataFrame.
@@ -90,7 +90,7 @@ Balances class distributions in the training data. Users can choose between:
 
 ## 6. Model Training and Evaluation
 
-![Model Selection](Image Directory/Model Selection and Training Module.png)
+![Model Selection](https://github.com/eriiire/data-science-projects/blob/main/GUI-Powered%20Classification%20Pipeline/Image%20Directory/Model%20Selection%20and%20Training%20Module.png)
 
 The application supports multiple models, each with a dedicated function. The models included are:
 
